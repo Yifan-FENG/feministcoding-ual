@@ -11,6 +11,10 @@ Designed by Yifan Feng, this chatbot aims to help you explore one common disabil
 
 With the interaction with bot, this project hopes to raise an awareness of positivity and inclusivity for non-dyslexic audiences, stay open-minded towards an diverse society.
 
+###Conversation Design
+<img src="https://github.com/Yifan-FENG/feministcoding-ual/blob/main/FCP-chatbot-YifanFENG/FCP%20Chatbot%20flow%20chart.jpg" height="350" width="700">
+
+
 
 P.S. 
 DEBUG credit @smellyaya @JoChicau
