@@ -1,4 +1,4 @@
-# Unit title: IU000145 Feminist Coding Practices & IU000144: Methods for Equitable Technology Development
+# Unit title: IU000145 Feminist Coding Practices & IU000144 Methods for Equitable Technology Development
 ### Designing for Social Inclusion 
 
 Creator: Yifan Feng (he/they)
