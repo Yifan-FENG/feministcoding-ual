@@ -10,7 +10,7 @@ Date: 4 Dec 2021
 Goal: this chatbot aims to help you explore one common disability that produces significant impact throughout one's education journey. With the interaction with bot, this project hopes to raise an awareness of positivity and inclusivity for non-dyslexic audiences, stay open-minded towards an diverse society. Read more **[here](https://github.com/Yifan-FENG/feministcoding-ual/blob/main/Technology%20Design%20%26%20Social%20Inclusion.pdf).**
 
 ### Digital Prototype
-https://yifan-feng.github.io/FCP-chatbot-YifanFENG/ 
+[The Dyslexia Chatbot](https://yifan-feng.github.io/FCP-chatbot-YifanFENG/)
 
 ### Conversation Design
 <img src="https://github.com/Yifan-FENG/feministcoding-ual/blob/main/FCP-chatbot-YifanFENG/FCP%20Chatbot%20flow%20chart.jpg" height="350" width="700">
